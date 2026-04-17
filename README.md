@@ -1,2 +1,3 @@
-# testeo-MCP-opencode
-Repositorio de testeo para MCP opencode
+# Saludando desde OpenCode
+
+Este repositorio fue creado mediante el MCP de GitHub configurado en opencode.
